@@ -1,5 +1,6 @@
 {
-    "name": "vinkla/hashids",
+    "name": "pivar/hashids",
+    "Forked From": "vinkla/hashids",
     "description": "A Hashids bridge for Laravel",
     "license": "MIT",
     "keywords": ["laravel", "hashids", "hashid", "hash", "ids", "youtube", "bitly", "encrypt", "decrypt", "obfuscate"],
