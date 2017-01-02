@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Vinkla\Hashids\Facades;
+namespace Pivar\Hashids\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
