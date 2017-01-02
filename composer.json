@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Vinkla\\Hashids\\": "src/"
+            "Pivar\\Hashids\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Vinkla\\Tests\\Hashids\\": "tests/"
+            "Pivar\\Tests\\Hashids\\": "tests/"
         }
     },
     "config": {
